@@ -6,7 +6,7 @@ Encontrar el numero mas pequeño que pueda ser devivido por los numero del 1 has
 let numero = 2
 let sw = true
 
-let limite = 10
+let limite = 20
 
 while (sw) {
     
@@ -17,11 +17,13 @@ while (sw) {
         } 
     }
 
-    if (i == limite) {
+    if (i == limite + 1) {
         sw = false
     } else {
         numero = numero + 1
     }
+
+    
 }
 
 console.log(numero);
