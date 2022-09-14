@@ -17,11 +17,7 @@ while (sw) {
         } 
     }
 
-    if (i == limite + 1) {
-        sw = false
-    } else {
-        numero = numero + 1
-    }
+   
 
     
 }
