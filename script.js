@@ -10,12 +10,6 @@ let limite = 20
 
 while (sw) {
     
-    let i
-    for (i = 1; i <= limite; i++) {
-        if (numero % i != 0) {
-            break
-        } 
-    }
 
    
 
