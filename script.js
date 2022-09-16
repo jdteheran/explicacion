@@ -9,11 +9,7 @@ let sw = true
 let limite = 20
 
 while (sw) {
-    
-
-   
-
-    
 }
 
 console.log(numero);
+// mensaje addicional.
